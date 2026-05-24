@@ -1,0 +1,12 @@
+Day 3 - COUNTIF Function
+
+Learned:
+- COUNTIF formula
+- Data counting (Pass/Fail)
+
+Formulas used:
+=COUNTIF(E2:E6,"Pass")
+=COUNTIF(E2:E6,"Fail")
+
+Practice:
+Counted number of students who passed and failed in the dataset.
