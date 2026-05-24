@@ -1,0 +1,3 @@
+Day 1:
+Created student marks dataset
+Learned Excel basics (rows, columns, SUM, AVERAGE)
