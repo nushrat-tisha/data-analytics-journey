@@ -1,0 +1,11 @@
+Day 2 - Excel IF Formula
+
+Learned:
+- IF formula
+- Pass/Fail logic
+
+Formula used:
+=IF(C2>=40,"Pass","Fail")
+
+Practice:
+Created Result column and checked student pass/fail.
