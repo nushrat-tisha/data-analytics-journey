@@ -1,0 +1,11 @@
+Day 4 - Sorting & Filtering
+
+Learned:
+- Sorting data (Highest to Lowest)
+- Filtering data (Department & Result)
+- Data analysis basics
+
+Practice results:
+- CSE: 2 students
+- Pass: 2 students
+- Highest marks: 90
