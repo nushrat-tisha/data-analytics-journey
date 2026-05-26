@@ -1,0 +1,11 @@
+Day 5 - Conditional Formatting
+
+Learned:
+- Highlighting high marks
+- Detecting low attendance
+- Visual analysis using conditional formatting
+
+Results:
+- 80+ marks: 4
+- Low attendance: 4
+- Pass students: 3
