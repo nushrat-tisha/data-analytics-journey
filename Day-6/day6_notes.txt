@@ -1,0 +1,16 @@
+Day 6 - Data Validation
+
+Learned:
+- Creating dropdown lists
+- Restricting invalid data entry
+- Improving data accuracy
+
+Practice:
+- Created Department dropdown (CSE, EEE, BBA)
+- Added validation for Marks (0-100)
+- Added validation for Attendance (0-100)
+
+Skills:
+- Data cleaning
+- Spreadsheet validation
+- Professional data entry
