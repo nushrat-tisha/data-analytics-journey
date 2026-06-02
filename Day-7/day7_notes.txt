@@ -1,0 +1,15 @@
+Day 7 - Charts and Data Visualization
+
+Learned:
+- Creating Bar Charts
+- Creating Pie Charts
+- Visualizing data using charts
+
+Practice:
+- Created a Bar Chart for student marks
+- Created a Pie Chart for department distribution
+
+Skills:
+- Data Visualization
+- Data Presentation
+- Excel Chart Creation
