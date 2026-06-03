@@ -1,0 +1,15 @@
+Day 8 - Pivot Table
+
+Learned:
+- Creating Pivot Tables
+- Summarizing data
+- Counting students by department
+- Calculating average marks
+
+Practice:
+Created department-wise summary and average marks report.
+
+Skills:
+- Data Analysis
+- Reporting
+- Data Summarization
