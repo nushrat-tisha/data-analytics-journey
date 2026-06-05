@@ -1,0 +1,17 @@
+Day 9 - Dashboard Creation
+
+Learned:
+- Creating a mini dashboard
+- Organizing charts and summaries
+- Presenting data visually
+
+Practice:
+- Added KPI summary
+- Created Bar Chart
+- Created Pie Chart
+- Built a Student Marks Dashboard
+
+Skills:
+- Data Visualization
+- Dashboard Design
+- Data Presentation
