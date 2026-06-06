@@ -1,0 +1,15 @@
+Day 10 - VLOOKUP
+
+Learned:
+- Using VLOOKUP
+- Searching data using ID
+- Returning values from another column
+
+Practice:
+- Looked up student name
+- Retrieved marks automatically
+
+Skills:
+- Data Lookup
+- Spreadsheet Automation
+- Data Retrieval
