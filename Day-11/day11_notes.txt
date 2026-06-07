@@ -1,0 +1,15 @@
+Day 11 - IF + VLOOKUP
+
+Learned:
+- Combining IF and VLOOKUP
+- Creating automatic grade logic
+- Returning results dynamically
+
+Practice:
+- Retrieved student data using ID
+- Generated grades from marks automatically
+
+Skills:
+- Conditional Logic
+- Data Retrieval
+- Spreadsheet Automation
