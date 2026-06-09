@@ -1,0 +1,16 @@
+Day 12 - SUMIF and COUNTIF
+
+Learned:
+- Using COUNTIF
+- Using SUMIF
+- Performing condition-based analysis
+
+Practice:
+- Counted pass students
+- Calculated total marks for 80+
+- Calculated department-wise marks
+
+Skills:
+- Data Analysis
+- Conditional Aggregation
+- Reporting
