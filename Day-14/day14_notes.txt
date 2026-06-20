@@ -1,0 +1,18 @@
+Day 14 - Text Functions
+
+Learned:
+- UPPER
+- LOWER
+- PROPER
+- LEN
+
+Practice:
+- Converted names to uppercase
+- Converted names to lowercase
+- Cleaned text formatting
+- Counted text length
+
+Skills:
+- Data Cleaning
+- Text Processing
+- Spreadsheet Functions
