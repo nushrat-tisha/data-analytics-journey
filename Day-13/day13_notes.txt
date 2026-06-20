@@ -1,0 +1,16 @@
+Day 13 - AVERAGEIF MAX MIN
+
+Learned:
+- Calculating averages
+- Finding department-wise averages
+- Finding highest and lowest values
+
+Practice:
+- Calculated average marks
+- Found CSE average
+- Found highest and lowest marks
+
+Skills:
+- Data Analysis
+- Statistics Basics
+- Spreadsheet Functions
