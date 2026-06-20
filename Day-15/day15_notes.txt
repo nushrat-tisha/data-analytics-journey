@@ -1,0 +1,18 @@
+Day 15 - Text Extraction and Combination
+
+Learned:
+- Combining text
+- Extracting text from left
+- Extracting text from right
+- Extracting text from middle
+
+Practice:
+- Combined name and department
+- Retrieved first characters
+- Retrieved last characters
+- Extracted middle text
+
+Skills:
+- Data Cleaning
+- Text Manipulation
+- Spreadsheet Functions
