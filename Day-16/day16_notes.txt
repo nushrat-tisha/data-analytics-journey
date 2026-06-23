@@ -1,0 +1,18 @@
+Day 16 - FIND REPLACE TRIM SPLIT
+
+Learned:
+- Finding character positions
+- Replacing text
+- Removing extra spaces
+- Splitting text into columns
+
+Practice:
+- Used FIND
+- Modified text using REPLACE
+- Cleaned text using TRIM
+- Divided values using SPLIT
+
+Skills:
+- Data Cleaning
+- Text Processing
+- Spreadsheet Functions
